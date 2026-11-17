@@ -61,5 +61,3 @@ IEEE Computer Society
 Linux Foundation & OWASP Foundation
 
 📫 Como me encontrar
-
-"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender." — Martin Fowler
